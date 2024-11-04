@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+joblib
+lightgbm
+xgboost
+catboost
+polars
+kaggle_evaluation.jane_street_inference_server
+pyarrow
+matplotlib
+dask[complete]
